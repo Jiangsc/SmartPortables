@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<PhoneCatalog>
+    <phone id="IphoneX">
+        <name>IphoneX</name>
+        <price>899.99</price>
+        <image>xbox1.jpg</image>
+        <maker>IOS</maker>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </phone>
+    <phone id="google">
+        <name>Goole Pix</name>
+        <price>399.99</price>
+        <image>xbox360.jpg</image>
+        <maker>Android</maker>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+			<accessory>xbox360_vb</accessory>
+			<accessory>xbox360_rs</accessory>
+			<accessory>xbox360_mp</accessory>
+			<accessory>xbox360_kg</accessory>
+        </accessories>
+    </phone>
+
+    <phone id="huawei">
+        <name>HP20</name>
+        <price>349.99</price>
+        <image>PS4-console-bundle.jpg</image>
+        <maker>Android</maker>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+			
+        </accessories>
+    </phone>
+    <phone id="sony">
+        <name>Sony3</name>
+        <price>349.99</price>
+        <image>ps3.jpg</image>
+        <maker>Android</maker>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+			
+        </accessories>
+    </phone>
+    <phone id="vivo">
+        <name>Vivo</name>
+        <price>249.99</price>
+        <image>Wii-Console.png</image>
+        <maker>Nintendo</maker>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </phone>
+</PhoneCatalog>
+
+<LaptopsCatalog>
+    <laptop id="pro">
+        <name>Apple  MacPro</name>
+        <price>1899.99</price>
+        <image>apple1.jpg</image>
+        <maker>Apple</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </laptop>
+    <laptop id="air">
+        <name>Apple MacAir</name>
+        <price>1289.99</price>
+        <image>apple2.jpg</image>
+        <maker>Apple</maker>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </laptop>
+    <laptop id="Surface">
+        <name>Surface</name>
+        <price>1299.99</price>
+        <image>m1.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="Surface1">
+        <name>Surface Pro</name>
+        <price>2299.99</price>
+        <image>m2.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="asus2">
+        <name>ASUS Pro</name>
+        <price>1550.99</price>
+        <image>s1.jpg</image>
+        <maker>ASUS</maker>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+
+</LaptopsCatalog>
+<WearableTechsCatalog>
+<wearabletech id="g1">
+        <name>FIFA 2016</name>
+        <price>50.99</price>
+        <image>ea_fifa.jpg</image>
+        <maker>Headphones</maker>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</wearabletech>
+<wearabletech id="g2">
+        <name>Need for Speed</name>
+        <price>50.99</price>
+        <image>ea_nfs.jpg</image>
+        <maker>Headphones</maker>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</wearabletech>
+<wearabletech id="g3">
+        <name>Call Of Duty</name>
+        <price>50.99</price>
+        <image>activision_cod.jpg</image>
+        <maker>Headphones</maker>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</wearabletech>
+<wearabletech id="g4">
+        <name>Evolve</name>
+        <price>50.99</price>
+        <image>tti_evolve.jpg</image>
+        <maker>Headphones</maker>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</wearabletech>
+</WearableTechsCatalog>
+
+<SmartSpeakerCatalog>
+
+    <smartSpeaker id="xboxone_wc">
+        <name>Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </smartSpeaker>
+
+    <smartSpeaker id="xboxone_sh">
+        <name>Turtle Beach Headset</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </smartSpeaker>
+	 
+	 <smartSpeaker id="xboxone_vb">
+        <name>joystick</name>
+        <price>89.99</price>
+        <image>joystick.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </smartSpeaker>
+     
+     
+</SmartSpeakerCatalog>
+
+<AccessoryCatalog>
+
+
+     <accessory id="xboxone_wc">
+        <name>Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_sh">
+        <name>Turtle Beach Headset</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_vb">
+        <name>joystick</name>
+        <price>89.99</price>
+        <image>joystick.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_kg">
+        <name>Keypad</name>
+        <price>89.99</price>
+        <image>keypad.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_rs">
+        <name>Starterkit</name>
+        <price>89.99</price>
+        <image>starterkit.jpeg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_mp">
+        <name>Wireless adpter</name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_mc">
+        <name>Wireless </name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+
+    <accessory id="xbox360_wc">
+        <name>XBOX Speeding Wheel</name>
+        <price>89.99</price>
+        <image>XBOX360-SpeedWheel.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xbox360_sh">
+        <name>XBOX Wireless Adapter</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xbox360_vb">
+        <name>Remote</name>
+        <price>89.99</price>
+        <image>remote.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 	 <accessory id="xbox360_rs">
+        <name>messengerkit</name>
+        <price>89.99</price>
+        <image>messengerkit.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_mp">
+        <name>Steering</name>
+        <price>89.99</price>
+        <image>steering.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_kg">
+        <name>Charger</name>
+        <price>89.99</price>
+        <image>charger.jpg</image>
+        <maker>Microsoft</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <maker>Sony</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <maker>Sony</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <maker>Nintendo</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <maker>Nintendo</maker>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+  
+
+</AccessoryCatalog>
+
+
+
+</ProductCatalog>
